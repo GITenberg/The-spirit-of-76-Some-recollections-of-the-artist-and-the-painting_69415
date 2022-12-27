@@ -1,0 +1,52 @@
+_repo: The-spirit-of-76-Some-recollections-of-the-artist-and-the-painting_69415
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ryder, J. F. (James Fitzallan)
+    aliases:
+    - Ryder, James Fitzallan
+    - Ryder, James F. (Fitzallan)
+    birthdate: 1826
+    deathdate: 1904
+    gutenberg_agent_id: '55238'
+    url: http://www.gutenberg.org/2009/agents/55238
+  illustrator:
+    agent_name: Willard, Archibald M.
+    alias: Willard, A. M.
+    birthdate: 1836
+    deathdate: 1918
+    gutenberg_agent_id: '52758'
+    url: http://www.gutenberg.org/2009/agents/52758
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Willard
+creator:
+  author:
+    agent_name: Devereux, Henry Kelsey
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '55250'
+    url: http://www.gutenberg.org/2009/agents/55250
+description: ''
+gutenberg_issued: '2022-11-24'
+identifiers:
+  gutenberg: '69415'
+  lccn: '26020339'
+language: en
+pgterms:marc904: https://archive.org/details/thespiritof76som00deve/page/n11/mode/2up?q=The+spirit+of+%5C%2776
+pgterms:marc905: 20220813115610devereux
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Privately Printed for the Author,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Willard, Archibald M., 1836-1918'
+- !lcc 'ND'
+- GITenberg
+tableOfContents: Archibald M. Willard, a brief sketch -- The fifer, Hugh Mosher --
+  The drummer boy, Henry Kelsey Devereux -- An early account, by J.F. Ryder -- The
+  preliminary sketches and replicas.
+title: '"The spirit of ''76": Some recollections of the artist and the painting'
+url: http://www.gutenberg.org/ebooks/69415
