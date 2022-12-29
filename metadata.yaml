@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '52758'
     url: http://www.gutenberg.org/2009/agents/52758
     wikipedia: https://en.wikipedia.org/wiki/Archibald_Willard
+covers:
+- cover_type: archival
+  image_path: 69415-h/images/cover.jpg
 creator:
   author:
     agent_name: Devereux, Henry Kelsey
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '55250'
     url: http://www.gutenberg.org/2009/agents/55250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69415#The-spirit-of-76-Some-recollections-of-the-artist-and-the-painting
 gutenberg_issued: '2022-11-24'
 identifiers:
   gutenberg: '69415'
